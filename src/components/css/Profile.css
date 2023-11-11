@@ -1,0 +1,25 @@
+.mainContainer{
+    background-color: #EBF2FA;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.profileContainer{
+    background-color: white;
+    border-radius: 25px;
+}
+.name{
+    margin-top:10px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 40px;
+ }
+
+ .tagLine{
+    margin-top: 5px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-weight: 1000px;
+    color: #979797;
+}
+
